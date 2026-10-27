@@ -10,3 +10,4 @@
 ## 文件
 - `SKILL.md` — 规则与输出格式
 - `references/examples.md` — 示例
+- `CHANGELOG.md` — 版本记录（每个版本有 git tag，可回调）
